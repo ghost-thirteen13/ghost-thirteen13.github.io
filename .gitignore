@@ -1,0 +1,12 @@
+# 依赖
+node_modules/
+
+# 编译产物（云端Action会重新generate，不必提交）
+public/
+
+# Hexo运行时缓存
+db.json
+
+# 日志与临时文件
+*.log
+.DS_Store
