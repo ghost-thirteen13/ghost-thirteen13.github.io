@@ -2,7 +2,7 @@
 title: Hello, blog
 date: 2026-09-10 10:55
 tags: [测试]
-categories: [随笔]
+categories: [建站笔记]
 ---
 
 # 你好，博客。

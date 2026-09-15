@@ -1,8 +1,8 @@
 ---
 title: 测试博客（移动端） - 第0篇 - dlc
 date: 2026-09-14 15:30:00
-tags: [技术]
-categories: [测试]
+tags: [测试]
+categories: [建站笔记]
 ---
 
 ## 这是标题
