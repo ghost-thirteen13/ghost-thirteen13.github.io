@@ -3,13 +3,12 @@
 
 # ── 站点基本信息 ──
 title: Hi! 过个美好的一天！ # 博客标题（浏览器标签、首页标题）
-subtitle: '/music/' # 副标题
-description: '一个用 Hexo 搭建的个人博客'
+subtitle: 'hello world!' # 副标题
+description: "I don'want to be part of a world, where being kind is a weakness."
 author: Ghost-thirteen  # 作者名
 language: zh-CN                       # 站点语言（中文）
 timezone: ''                          # 时区，留空 = 用系统时区
 
-# ── 网址（阶段 6 接 GitHub Pages 后改成 https://ghost-thirteen13.github.io）──
 url: https://ghost-thirteen13.github.io
 
 # ── 主题（关键！指定用 butterfly，对应 themes/butterfly 目录）──
