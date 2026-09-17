@@ -57,8 +57,8 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
-  effect: false
+  img: /img/avatar.jpg
+  effect: true
 
 # Disable all banner images
 disable_top_img: false
@@ -289,11 +289,11 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
+      text: My Github
       link: https://https://github.com/ghost-thirteen13
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: Ciallo～(∠・ω<)⌒★
   card_recent_post:
     enable: true
     # If set 0 will show all
@@ -301,7 +301,7 @@ aside:
     # Sort: date / updated
     sort: date
     sort_order:
-  card_newest_comments:
+  card_newest_comments: ##### 标记，不知道此处commit是在哪里的，还要找卡片震动在哪改
     enable: false
     sort_order:
     limit: 6
@@ -337,7 +337,7 @@ aside:
     # If set 0 will show all
     limit: 8
     sort_order:
-  card_post_series:
+  card_post_series: ##### 标记
     enable: true
     # The title shows the series name
     series_title: false
