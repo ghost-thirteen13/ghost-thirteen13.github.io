@@ -18,10 +18,11 @@ nav:
   fixed: false
 
 menu:
-  # Home: / || fas fa-home
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
+  Home: / || fas fa-home
+  List||fas fa-list:
+    Music: /music/ || fas fa-musicmenu
+    Movie: /movies/ || fas fa-video
+    Friends: /friends/ || fas fa-person # 此处没有标识应该
 
 # --------------------------------------
 # Code Blocks Settings
@@ -46,8 +47,8 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
+  fab fa-github: https://github.com/ghost-thirteen13 || Github || '#24292e'
+  fas fa-envelope: mailto:caihen0813@outlook.com || Email || '#4a7dbe'
 
 # --------------------------------------
 # Image Settings
