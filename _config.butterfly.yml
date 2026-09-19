@@ -19,11 +19,14 @@ nav:
 
 menu:
   首页: / || fas fa-home
-  文章: /文章/ || fas-archive
+  文章|| fas fa-book: 
+    归档: /archives/ || fas fa-archive
+    分类: /categories/ || fas fa-folder
+    标签: /tags/ || fas fa-tags
   其他||fas fa-list:
     Music: /music/ || fas fa-music
     Movie: /movies/ || fas fa-video
-    Friends: /friends/ || fas fa-user-friend
+    Friends: /friends/ || fas fa-user-friends
 
 # --------------------------------------
 # Code Blocks Settings
