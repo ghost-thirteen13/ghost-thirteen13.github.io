@@ -19,9 +19,7 @@ nav:
 
 menu:
   Home: / || fas fa-home
-  archive: /archives/
-  categories: /categories/
-  tags: /tags/
+  archive: /文章/ || fas-archive
   List||fas fa-list:
     Music: /music/ || fas fa-music
     Movie: /movies/ || fas fa-video
