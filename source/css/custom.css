@@ -2,3 +2,6 @@
     --card-bg: rgba(18, 18, 18, 0.35);
     --sidebar-bg: rgba(18, 18, 18, 0.35);
 }
+
+#site-title { display: none; }
+/*这段暂时不知道怎么搞，没起效，摆烂了暂时orz*/
