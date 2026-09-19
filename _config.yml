@@ -2,7 +2,7 @@
 # 这是博客的「身份信息」和站点级设置
 
 # ── 站点基本信息 ──
-title: Hi! 过个美好的一天！ # 博客标题（浏览器标签、首页标题）
+title: Ghost-thirteen's Blog # 博客标题（浏览器标签、首页标题）
 subtitle: 'hello world!' # 副标题
 description: "I don'want to be part of a world, where being kind is a weakness."
 author: Ghost-thirteen  # 作者名
