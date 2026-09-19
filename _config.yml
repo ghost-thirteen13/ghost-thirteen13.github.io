@@ -4,7 +4,7 @@
 # ── 站点基本信息 ──
 title: Ghost-thirteen's Blog # 博客标题（浏览器标签、首页标题）
 subtitle: 'hello world!' # 副标题
-description: "I don'want to be part of a world, where being kind is a weakness."
+description: "I don't want to be part of a world, where being kind is a weakness."
 author: Ghost-thirteen  # 作者名
 language: zh-CN                       # 站点语言（中文）
 timezone: ''                          # 时区，留空 = 用系统时区

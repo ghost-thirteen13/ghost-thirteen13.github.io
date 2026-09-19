@@ -19,10 +19,13 @@ nav:
 
 menu:
   Home: / || fas fa-home
+  archive: /archives/
+  categories: /categories/
+  tags: /tags/
   List||fas fa-list:
-    Music: /music/ || fas fa-musicmenu
+    Music: /music/ || fas fa-music
     Movie: /movies/ || fas fa-video
-    Friends: /friends/ || fas fa-person # 此处没有标识应该
+    Friends: /friends/ || fas fa-user-friend
 
 # --------------------------------------
 # Code Blocks Settings
@@ -290,7 +293,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: My Github
-      link: https://https://github.com/ghost-thirteen13
+      link: https://github.com/ghost-thirteen13
   card_announcement:
     enable: true
     content: Ciallo～(∠・ω<)⌒★
