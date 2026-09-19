@@ -24,9 +24,9 @@ menu:
     分类: /categories/ || fas fa-folder
     标签: /tags/ || fas fa-tags
   其他||fas fa-list:
-    Music: /music/ || fas fa-music
-    Movie: /movies/ || fas fa-video
-    Friends: /friends/ || fas fa-user-friends
+    音乐: /music/ || fas fa-music
+    视频: /movies/ || fas fa-video
+    朋友们: /friends/ || fas fa-user-friends
 
 # --------------------------------------
 # Code Blocks Settings
@@ -479,7 +479,7 @@ math:
 search:
   # Choose: algolia_search / local_search / docsearch
   # leave it empty if you don't need search
-  use:
+  use: local_search
   placeholder:
 
   # Algolia Search
