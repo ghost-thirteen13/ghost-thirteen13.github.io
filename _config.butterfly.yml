@@ -27,6 +27,7 @@ menu:
     音乐: /music/ || fas fa-music
     视频: /movies/ || fas fa-video
     朋友们: /friends/ || fas fa-user-friends
+    聊天区: /comment/ || fas fa-comments
 
 # --------------------------------------
 # Code Blocks Settings
@@ -107,7 +108,7 @@ cover:
   archives_enable: true
   # When cover is not set, the default cover is displayed
   default_cover:
-    # - xxx.jpg
+     - banner.jpg
 
 # Replace Broken Images
 error_img:
@@ -154,7 +155,7 @@ index_top_img_height:
 
 # The subtitle on homepage
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect
   effect: true
   # Customize typed.js
@@ -169,7 +170,8 @@ subtitle:
   # 3 - jinrishici.com
   source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
-  sub:
+  sub: This is Ghost-thirteen's Blog.
+       Have a nice day!
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
@@ -539,6 +541,7 @@ comments:
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   # Format of two comments system : Disqus,Waline
   use:
+    - Giscus
   # Display the comment name next to the button
   text: true
   # Lazyload: The comment system will be load when comment element enters the browser's viewport.
@@ -635,13 +638,13 @@ twikoo:
 # Giscus
 # https://giscus.app/
 giscus:
-  repo:
-  repo_id:
-  category_id:
+  repo: ghost-thirteen13/ghost-thirteen13.github.io
+  repo_id: R_kgDOUYJ2kQ
+  category_id: DIC_kwDOUYJ2kc4DF9gl
   light_theme: light
   dark_theme: dark
   js:
-  option:
+  option: General
 
 # Remark42
 # https://remark42.com/docs/configuration/frontend/
